@@ -1,0 +1,22 @@
+/* Register.css */
+.custom-modal {
+    max-width: 90%;
+/* margin: 50px 50px; */
+}
+
+.custom-modal .modal-content {
+    border-radius: 10px;
+}
+
+.custom-modal .modal-body {
+    padding: 20px;
+}
+
+body.modal-open {
+    overflow: hidden;
+}
+
+body.modal-open .modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+}

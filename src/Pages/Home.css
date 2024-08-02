@@ -1,0 +1,31 @@
+.my-class {
+    font-family: 'Aldrich', sans-serif;
+    font-size: 300%;
+    line-height: 4rem;
+  }
+  .btn {
+   background-color: #4b164c;
+   outline: #4b164c;
+   width: 100%;
+   height: 6rem;
+   font-family: 'Aldrich', sans-serif;
+  }
+  .btn-one{
+    background-color: #fcf3fa;
+    color: #4b164c;
+    width: 100%;
+    height: 6rem;
+    font-family: 'Aldrich', sans-serif;
+  }
+
+ .disc {
+  width: 500%;
+  height: 6rem;
+  font-family: 'Aldrich', sans-serif;
+  font-size: 170%;
+ color: #645d6a;
+  }
+
+  #span{
+    color: #dd88cf;
+  }
